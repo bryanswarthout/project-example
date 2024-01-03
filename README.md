@@ -1,3 +1,3 @@
 # project-example
 
-## This is a subheading created on github
+## This is a subheading created locally
